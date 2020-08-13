@@ -31,8 +31,6 @@ const fonts = {
 }
 
 const GlobalStyling = createGlobalStyle`
-
-    @import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400&family=Montserrat:wght@400;700&display=swap');
     
     ${reset()}; 
 
