@@ -13,8 +13,7 @@ const Wrapper = styled.div`
     background-position-y: 60%;
     background-repeat: no-repeat;
     color: ${colors.light[300]};
-    height: 34rem;
-    ${fluid('height', '16rem', '28rem', '20rem', '70rem')};
+    ${fluid('height', '16rem', '24rem', '20rem', '70rem')};
     display: flex;
     flex-direction: column;
     align-items: center;
